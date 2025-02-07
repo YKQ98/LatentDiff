@@ -2,6 +2,8 @@
 
 This is the official implementation of the **LatentDiff** method proposed in the following paper.
 
+Please find code implementation in [AIRS](https://github.com/divelab/AIRS/tree/a1334825b8528b8d1095f0fb58e2475afd0ab992/OpenProt/LatentDiff).
+
 Cong Fu*, Keqiang Yan*, Limei Wang, Wing Yee Au, Michael McThrow, Tao Komikado, Koji Maruhashi, Kanji Uchino, Xiaoning Qian, Shuiwang Ji ["A Latent Diffusion Model for Protein Structure Generation"](https://openreview.net/pdf?id=MBZVrtbi06), the Second Learning on Graphs Conference (LoG) 2023
 
 <p align="center">
